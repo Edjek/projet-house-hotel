@@ -1,0 +1,100 @@
+/* MAIN */
+
+/* HERO */
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+    background-image: linear-gradient(#000, transparent),
+        url(../img/eiffel-tower.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    min-height: 600px;
+    text-align: center;
+    color: #fff;
+}
+
+.hero a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #0a2b19;
+    padding: 20px 60px;
+    border-radius: 5px;
+}
+
+.hero a:hover {
+    background-color: #145833;
+}
+
+.hero .para {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.hero h2 {
+    font-family: Roboto;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+/* SECTION 1 */
+.section {
+    width: 90%;
+    min-height: 300px;
+    margin: auto;
+    padding: 50px 0;
+    /* border: 1px solid #999; */
+    /* border-radius: 5px; */
+    /* box-shadow: 4px 4px 8px #999; */
+    text-align: center;
+}
+
+.section h2 {
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.section span {
+    font-weight: bold;
+}
+
+.section p {
+    margin-bottom: 20px;
+}
+
+.link {
+    color: rgb(255, 41, 41);
+    text-decoration: none;
+}
+
+.link:hover {
+    color: rgb(220, 110, 110);
+}
+
+.up {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(206, 55, 55);
+    color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.up a {
+    color: #fff;
+    text-decoration: none;
+}

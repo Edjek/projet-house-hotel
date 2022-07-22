@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* On agrandi la longeur de la page pour avoir du scroll */
+    height: 1200px;
+}

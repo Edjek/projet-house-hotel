@@ -1,0 +1,20 @@
+.container {
+    position: static;
+    background-color: #2980b9;
+    width: 200px;
+    height: 200px;
+}
+
+.container2 {
+    position: relative;
+    top: 20px;
+    left: 30px;
+
+    background-color: #f39c12;
+    width: 200px;
+    height: 200px;
+}
+
+.definition {
+    margin: 0 50px;
+}
