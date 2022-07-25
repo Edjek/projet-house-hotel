@@ -1,0 +1,20 @@
+<!-- W3C Validator -->
+https://jigsaw.w3.org/css-validator/
+
+<!-- Les polices de caractère -->
+https://fonts.google.com/
+
+<!-- Banque d'image -->
+https://pixabay.com/fr/
+
+<!-- Pour des couleurs assortis en CSS -->
+https://coolors.co/
+
+<!-- Pour partager du CSS -->
+https://codepen.io/dihcar-cesar
+
+<!-- Pour vous exercer aux flexbox -->
+https://flexboxfroggy.com/#fr
+
+<!-- Petit rappel de propriétés CSS -->
+https://fr.learnlayout.com/
