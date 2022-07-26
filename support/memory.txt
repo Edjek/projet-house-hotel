@@ -1,9 +1,11 @@
 <!-- W3C Validator -->
+https://validator.w3.org/
 https://jigsaw.w3.org/css-validator/
 
 <!-- Banque d'image -->
 https://pixabay.com/fr/
 https://unsplash.com/
+https://www.pexels.com/fr-fr/
 
 <!-- Les polices de caractère -->
 https://fonts.google.com/
